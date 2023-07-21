@@ -1,7 +1,6 @@
 from pynput.keyboard import Key, Listener
 from keyboard import read_key
 from pynput.mouse import Listener as mouseListener
-from pynput.mouse import Button
 keyLog = []
 
  
